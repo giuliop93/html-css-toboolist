@@ -24,25 +24,37 @@ section {
     background-color: white;
     margin: auto;
     margin-top: 40px;
-    border-radius: 10%;
 }
 
 #addtask {
-height: 20px;
-width: 50px;
-display: inline-block;
+    height: 20px;
+    width: 50px;
+    display: inline-block;
 }
 
 #addsection {
-height: 20px;
-width: 50px;
-display: inline-block;
+    height: 20px;
+    width: 50px;
+    display: inline-block;
 }
 
 #buttons {
-height: 60px;
+    height: 60px;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
 }
 
 #menù {
-height: 500px;
+    height: 500px;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
+}
+
+div {
+    padding-left: 20px;
+    background-color: white;
+}
+
+.title {
+    font-weight: bold;
 }
