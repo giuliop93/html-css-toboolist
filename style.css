@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     background-color: rgb(226, 234, 243);
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -10,7 +11,7 @@ header {
     padding-left: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-size: larger;
+    font-size: xx-large;
     font-weight: bolder;
 }
 
@@ -27,6 +28,7 @@ section {
 }
 
 #addtask {
+    color: white;
     display: inline-block;
     background-color: dodgerblue;
     border-radius: 10%;
@@ -34,8 +36,9 @@ section {
 }
 
 #addsection {
+    color: lightgrey;
     display: inline-block;
-    border: 1px solid grey;
+    border: 1px solid lightgrey;
     border-radius: 10%;
     padding: 5px;
 }
