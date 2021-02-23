@@ -2,5 +2,28 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(226, 234, 243);
+}
+
+header {
+    background-color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#logo {
+    vertical-align: middle;
+}
+
+section {
+    height: 40px;
+    width: 800px;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10%;
 }
 
