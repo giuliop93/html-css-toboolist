@@ -58,3 +58,7 @@ span {
 .title {
     font-weight: bold;
 }
+
+div {
+    display: inline-block;
+}
