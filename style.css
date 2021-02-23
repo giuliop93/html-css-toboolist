@@ -19,7 +19,7 @@ header {
 }
 
 section {
-    height: 40px;
+    height: 60px;
     width: 800px;
     background-color: white;
     margin: auto;
@@ -27,3 +27,14 @@ section {
     border-radius: 10%;
 }
 
+#addtask {
+height: 20px;
+width: 50px;
+display: inline-block;
+}
+
+#addsection {
+height: 20px;
+width: 50px;
+display: inline-block;
+}
