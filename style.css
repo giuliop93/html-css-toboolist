@@ -58,7 +58,7 @@ section {
 span {
     padding-left: 20px;
     background-color: white;
-    margin: 10px;
+    margin-top: 20px;
 }
 
 .title {
@@ -68,8 +68,9 @@ span {
 div {
     color: white;
     display: inline-block;
-    padding: 3px;
-    border-radius: 10%;
+    padding: 5px;
+    border-radius: 18%;
+    font-size: xx-small;
 }
 
 .edit {
@@ -77,7 +78,7 @@ div {
 }
 
 #goals {
-    background-color: purple;
+    background-color: rgb(176, 45, 209);
 }
 
 #recru {
@@ -89,10 +90,10 @@ div {
 }
 
 #web {
-    background-color: darkmagenta;
+    background-color: rgb(224, 133, 201);
 }
 
 #sales {
-    background-color: lightgreen;
+    background-color: rgb(182, 206, 75);
 }
 
