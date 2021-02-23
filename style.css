@@ -45,7 +45,7 @@ section {
 }
 
 #menù {
-    height: 500px;
+    height: 400px;
     border-bottom-left-radius: 2%;
     border-bottom-right-radius: 2%;
 }
@@ -61,4 +61,6 @@ span {
 
 div {
     display: inline-block;
+    border: 1px solid;
+    padding: 5px;
 }
