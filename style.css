@@ -27,15 +27,17 @@ section {
 }
 
 #addtask {
-    height: 20px;
-    width: 50px;
     display: inline-block;
+    background-color: dodgerblue;
+    border-radius: 10%;
+    padding: 5px;
 }
 
 #addsection {
-    height: 20px;
-    width: 50px;
     display: inline-block;
+    border: 1px solid grey;
+    border-radius: 10%;
+    padding: 5px;
 }
 
 #buttons {
@@ -53,6 +55,7 @@ section {
 span {
     padding-left: 20px;
     background-color: white;
+    margin: 10px;
 }
 
 .title {
@@ -61,6 +64,31 @@ span {
 
 div {
     display: inline-block;
-    border: 1px solid;
-    padding: 5px;
+    padding: 3px;
+    border-radius: 10%;
 }
+
+.edit {
+    background-color: dodgerblue;
+}
+
+#goals {
+    background-color: purple;
+}
+
+#recru {
+    background-color: green;
+}
+
+#mobile {
+    background-color: orange;
+}
+
+#web {
+    background-color: darkmagenta;
+}
+
+#sales {
+    background-color: lightgreen;
+}
+
