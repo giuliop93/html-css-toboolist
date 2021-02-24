@@ -33,7 +33,7 @@ section {
     background-color: dodgerblue;
     border-radius: 10%;
     padding-left: 2px;
-    margin-left: 35px;
+    margin-left: 45px;
     margin-top: 15px;
     font-size: small;
 }
@@ -42,7 +42,7 @@ section {
     color: rgb(212, 212, 212);
     display: inline-block;
     border: 1px solid rgb(228, 228, 228);
-    border-radius: 10%;
+    border-radius: 5px;
     padding-left: 2px;
     margin-left: 5px;
     font-size: small;
@@ -59,6 +59,7 @@ section {
     height: 420px;
     border-bottom-left-radius: 2%;
     border-bottom-right-radius: 2%;
+    padding-left: 20px;
 }
 
 span {
@@ -78,7 +79,7 @@ div {
     color: white;
     display: inline-block;
     padding: 5px;
-    border-radius: 18%;
+    border-radius: 5px;
     font-size: xx-small;
 }
 
