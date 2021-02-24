@@ -32,8 +32,9 @@ section {
     display: inline-block;
     background-color: dodgerblue;
     border-radius: 10%;
-    padding: 2px;
-    margin-left: 45px;
+    padding-left: 2px;
+    margin-left: 35px;
+    margin-top: 15px;
     font-size: small;
 }
 
@@ -42,8 +43,8 @@ section {
     display: inline-block;
     border: 1px solid rgb(228, 228, 228);
     border-radius: 10%;
-    padding: 2px;
-    margin-left: -10px;
+    padding-left: 2px;
+    margin-left: 5px;
     font-size: small;
 }
 
@@ -55,7 +56,7 @@ section {
 
 #menù {
     margin-top: 2px;
-    height: 400px;
+    height: 420px;
     border-bottom-left-radius: 2%;
     border-bottom-right-radius: 2%;
 }
@@ -64,10 +65,12 @@ span {
     line-height: 30px;
     padding-left: 20px;
     background-color: white;
-    margin: 20px;
+    margin: 2px;
+    display: inline-block;
 }
 
 .title {
+    margin-top: 5px;
     font-weight: bold;
 }
 
